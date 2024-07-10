@@ -12,7 +12,6 @@ const Http200Example = () => {
   return (
     <div>
       <h1>HTTP 200 Example</h1>
-      <p>Check the console for the fetched data.</p>
     </div>
   );
 };

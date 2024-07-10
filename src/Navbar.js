@@ -37,10 +37,7 @@ export const Navbar = () => {
         <NavLink to = '/Recipes'>Recipes</NavLink> 
         &nbsp;
         &nbsp;
-        <NavLink to = '/singleFetchImageUser'>FetchImage</NavLink> 
-        
-
-        
+        <NavLink to = '/singleFetchImageUser'>FetchImage</NavLink>  
     </nav>
   )
 }
